@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7000fb37dd886374eb7f2ae46008ec96, type: 3}
+  m_Name: BlueStatus
+  m_EditorClassIdentifier: 
+  heroid: 2
+  p_name: "\u30D6\u30EB\u30FC"
+  p_HP: 22
+  p_BP: 40
+  p_atk: 10
+  p_def: 11
+  p_spd: 12
+  p_cop: 13
